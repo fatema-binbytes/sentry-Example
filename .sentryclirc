@@ -1,0 +1,6 @@
+[defaults]
+url=https://sentry.io/
+org=binbytes-l6
+project=react-native
+[auth]
+token=0bd3715156d540d5818d7a896105c576ace15cfaca9d4adab88cc44ffc564ed4
